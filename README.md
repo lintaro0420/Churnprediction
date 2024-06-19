@@ -1,7 +1,7 @@
 
 # Churn Prediction Challenge
 
-Welcome to the Data Science Coding Challenge! This challenge is designed to test your machine learning skills with a real-world problem: predicting customer churn for a video streaming service.
+Customer churn is when customers stop using a company's product or service. Churn prediction identifies these at-risk customers, allowing businesses to take proactive measures to retain them. In this challenge, you'll predict churn for a video streaming service. Using customer data, you will build a machine learning model to determine whether a subscriber will continue their subscription for another month. Accurate churn predictions help businesses implement targeted retention strategies, ensuring customer satisfaction and loyalty.
 
 ## Table of Contents
 - [Introduction](#introduction)
